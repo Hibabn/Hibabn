@@ -21,16 +21,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hibabn&show_icons=true&hide_border=true&count_private=true&bg_color=170A12&title_color=FF4FA3&text_color=FFE3F2&icon_color=FF8FC7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibabn&layout=compact&hide_border=true&bg_color=170A12&title_color=FF4FA3&text_color=FFE3F2"/>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hibabn&hide_border=false&border=FF4FA3&border_radius=14&background=170A12&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF8FC7&currStreakNum=FFFFFF&sideNums=FFE3F2&sideLabels=FF8FC7&dates=8A6478&card_width=600"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hibabn&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
 
 </div>
 
