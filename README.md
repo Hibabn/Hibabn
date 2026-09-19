@@ -20,8 +20,6 @@
 <br>
 
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hibabn&show_icons=true&hide_border=true&count_private=true&bg_color=170A12&title_color=FF4FA3&text_color=FFE3F2&icon_color=FF8FC7"/>
